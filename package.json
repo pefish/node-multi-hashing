@@ -1,6 +1,6 @@
 {
-    "name": "multi-hashing",
-    "version": "0.0.9",
+    "name": "node-multi-hash",
+    "version": "0.1.0",
     "main": "multihashing",
     "gypfile": true,
     "author": {
